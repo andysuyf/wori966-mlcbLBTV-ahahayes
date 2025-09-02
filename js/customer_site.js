@@ -40,10 +40,6 @@ const CUSTOMER_SITES = {
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "name": "无尽资源",
     },
-    bfzy: {
-      "api": "https://bfzyapi.com/api.php/provide/vod",
-      "name": "暴风资源",
-    },
     wwdj: {
       "api": "https://api.wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧",
