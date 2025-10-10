@@ -40,14 +40,6 @@ const CUSTOMER_SITES = {
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "name": "无尽资源",
     },
-    guangsubihuanaida: {
-      "api": "https://api.guangsuapi.com/api.php/provide/vod",
-      "name": "光速资源",
-    },
-    hongniubihuanaida: {
-      "api": "https://api.guangsuapi.com/api.php/provide/vod",
-      "name": "红牛资源",
-    },
     wwdjbihuanaida: {
       "api": "https://api.wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧",
