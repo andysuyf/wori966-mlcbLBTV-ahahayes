@@ -1,46 +1,50 @@
 const CUSTOMER_SITES = {
-    maotai: {
+    maotaibihuanaida: {
         api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
         name: '茅台资源',
     },
-    dbzy: {
+    dbzybihuanaida: {
         api: 'https://dbzy.tv/api.php/provide/vod',
         name: '豆瓣资源',
     },
-    wolong: {
+    wolongbihuanaida: {
         api: 'https://wolongzyw.com/api.php/provide/vod',
         name: '卧龙资源',
     }, 
-    modu: {
+    modubihuanaida: {
         api: 'https://www.mdzyapi.com/api.php/provide/vod',
         name: '魔都资源',
     },
-    ruyi: {
+    ruyibihuanaida: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
         name: '如意资源',
     },
-    maoyan: {
+    maoyanbihuanaida: {
         api: 'https://api.maoyanapi.top/api.php/provide/vod',
         name: '猫眼资源',
     },
-    jisu: {
+    jisubihuanaida: {
       "api": "https://jszyapi.com/api.php/provide/vod",
       "name": "极速资源",
       "detail": "https://jszyapi.com"
     },
-    tyyszy: {
+    tyyszybihuanaida: {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源",
     },
-    zuid: {
+    zuidbihuanaida: {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "name": "最大资源",
     },
-    wujin: {
+    wujinbihuanaida: {
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "name": "无尽资源",
     },
-    wwdj: {
+    guangsubihuanaida: {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "name": "光速资源",
+    },
+    wwdjbihuanaida: {
       "api": "https://api.wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧",
     },
