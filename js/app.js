@@ -1,5 +1,5 @@
 // 全局变量
-let selectedAPIs = JSON.parse(localStorage.getItem('selectedAPIs') || '["maotaibihuanaida","dbzybihuanaida","wolongbihuanaida","modubihuanaida","ruyibihuanaida","maoyanbihuanaida","jisubihuanaida","tyyszybihuanaida","zuidbihuanaida","wujinbihuanaida","wwdjbihuanaida"]'); // 默认选中资源
+let selectedAPIs = JSON.parse(localStorage.getItem('selectedAPIs') || '["mtzycao966","dbzycao966", "wlzycao966", "mdzycao966", "ryzycao966", "myzycao966", "jszycao966", "tyzycao966", "zdzycao966", "wjzycao966", "wwdjcao966"]'); // 默认选中资源
 let customAPIs = JSON.parse(localStorage.getItem('customAPIs') || '[]'); // 存储自定义API列表
 
 // 添加当前播放的集数索引
