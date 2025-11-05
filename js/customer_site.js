@@ -1,46 +1,46 @@
 const CUSTOMER_SITES = {
-    maotaibihuanaida: {
+    mtzycao966: {
         api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
         name: '茅台资源',
     },
-    dbzybihuanaida: {
+    dbzycao966: {
         api: 'https://dbzy.tv/api.php/provide/vod',
         name: '豆瓣资源',
     },
-    wolongbihuanaida: {
+    wlzycao966: {
         api: 'https://wolongzyw.com/api.php/provide/vod',
         name: '卧龙资源',
     }, 
-    modubihuanaida: {
+    mdzycao966: {
         api: 'https://www.mdzyapi.com/api.php/provide/vod',
         name: '魔都资源',
     },
-    ruyibihuanaida: {
+    ryzycao966: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
         name: '如意资源',
     },
-    maoyanbihuanaida: {
+    myzycao966: {
         api: 'https://api.maoyanapi.top/api.php/provide/vod',
         name: '猫眼资源',
     },
-    jisubihuanaida: {
+    jszycao966: {
       "api": "https://jszyapi.com/api.php/provide/vod",
       "name": "极速资源",
       "detail": "https://jszyapi.com"
     },
-    tyyszybihuanaida: {
+    tyzycao966: {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源",
     },
-    zuidbihuanaida: {
+    zdzycao966: {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "name": "最大资源",
     },
-    wujinbihuanaida: {
+    wjzycao966: {
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "name": "无尽资源",
     },
-    wwdjbihuanaida: {
+    wwdjcao966: {
       "api": "https://api.wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧",
     },
